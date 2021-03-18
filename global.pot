@@ -16543,23 +16543,23 @@ msgid "The Latest Users"
 msgstr ""
 
 #: _protected/app/system/modules/user-dashboard/views/base/tpl/main/index.tpl:53
-msgid "My friends"
+msgid "Prietenii mei"
 msgstr ""
 
 #: _protected/app/system/modules/user-dashboard/views/base/tpl/main/index.tpl:63
-msgid "Visitors who visited my profile"
+msgid "Cine ma vizitat"
 msgstr ""
 
 #: _protected/app/system/modules/user-dashboard/views/base/tpl/main/index.tpl:73
-msgid "My photo albums"
+msgid "Albumele mele foto"
 msgstr ""
 
 #: _protected/app/system/modules/user-dashboard/views/base/tpl/main/index.tpl:84
-msgid "My video albums"
+msgid "Albumele mele video"
 msgstr ""
 
 #: _protected/app/system/modules/user-dashboard/views/base/tpl/main/index.tpl:95
-msgid "My discussions"
+msgid "Conversatiile mele"
 msgstr ""
 
 #: _protected/app/system/modules/user-dashboard/views/base/tpl/main/index.tpl:106
@@ -16567,7 +16567,7 @@ msgid "My notes"
 msgstr ""
 
 #: _protected/app/system/modules/user-dashboard/views/base/tpl/main/index.tpl:117
-msgid "Quick User Search"
+msgid "Cautare rapida"
 msgstr ""
 
 #: _protected/app/system/modules/user-dashboard/views/base/tpl/main/index.tpl:123
